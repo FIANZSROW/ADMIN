@@ -5,12 +5,6 @@
       "device": "PC-9283A",
       "status": "approved",
       "active": true
-    },
-    {
-      "username": "alex",
-      "device": "PC-3312A",
-      "status": "pending",
-      "active": false
     }
   ]
 }
